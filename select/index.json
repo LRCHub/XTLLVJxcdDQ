@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "快晴",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-04T09:50:22.415605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "快晴 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/01_快晴_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "快晴",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/02_快晴_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "快晴・上昇・ハレルーヤ",
+      "artist": "JINDOU",
+      "has_synced": true,
+      "path": "select/03_快晴・上昇・ハレルーヤ_JINDOU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "快晴 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/04_快晴_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "快晴 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/05_快晴_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "快晴",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/06_快晴_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "快晴",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO",
+      "has_synced": true,
+      "path": "select/07_快晴_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "快晴「劇場版プロジェクトセカイ」ver.",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/08_快晴「劇場版プロジェクトセカイ」ver._Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "快晴 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/09_快晴_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "快晴",
+      "artist": "Orangestar Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/10_快晴_Orangestar_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "快晴",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_快晴_Orangestar.txt"
+    }
+  ]
+}
